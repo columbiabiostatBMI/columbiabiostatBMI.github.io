@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"P8130: Biostatistical Methods I\"\n---\n</br>\n\n### Course Description\nThis one-semester course introduces basic applied descriptive and inferential statistics. The first part of the course includes elementary probability theory, an introduction to statistical distributions, principles of estimation and hypothesis testing, methods for comparison of discrete and continuous data including chi-squared test of independence, t-test, analysis of variance (ANOVA), and their non-parametric equivalents. The second part of the course focuses on linear models (regression) theory and their practical implementation. This part also introduces mixed-effects models and concepts of survival analysis.\nMore information can be found on the [course syllabus](/Attachments/P8130_Syllabus.pdf)\n\n####Class Sessions\nTuesdays and Thursdays, 10:00-11:20am, P&S Building 7th Floor Amphitheatre (AMP 7)\n*On Tuesday, Oct 24th 2017, class will be held in P&S Building AMP 1\n\n####Recitation Sessions\nMondays and/or Wednesdays, 5:30-6:50pm, Hammer LL203\n\nCourse Instructor: </br>\n[Cody Chiuzan](https://www.mailman.columbia.edu/people/our-faculty/cc3780), PhD ([email](mailto:cc3780@cumc.columbia.edu))  \nOffice Hours: By Appointment </br>\n\nTeaching Assistants: </br>\nZilan Chai ([email](mailto:zc2326@cumc.columbia.edu)) </br>\nRebecca Deek ([email](mailto:rad2186@cumc.columbia.edu)) </br>\nYutao Liu ([email](mailto:yl3050@cumc.columbia.edu)) </br>\nShuang Wu ([email](mailto:sw3140@cumc.columbia.edu)) </br>\nOffice Hours: Mondays and Wednesdays, 6:50-7:30pm, Hammer LL203\n\n<br><img src=\"Attachments/biostat_logo.png\" alt=\"biostat_logo\" style=\"width:75%; border:0px solid\"><br>",
+    "created" : 1504362217347.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2447937496",
+    "id" : "A04D707",
+    "lastKnownWriteTime" : 1504364076,
+    "last_content_update" : 1504364076269,
+    "path" : "~/Documents/columbiabiostatBMI/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

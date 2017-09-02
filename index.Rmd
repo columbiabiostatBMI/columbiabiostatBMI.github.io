@@ -1,11 +1,11 @@
 ---
 title: "P8130: Biostatistical Methods I"
 ---
+</br>
 
 ### Course Description
-This one-semester course introduces basic applied descriptive and inferential statistics. The first part of the course includes elementary probability theory, an introduction to statistical distributions, principles of estimation and hypothesis testing, methods for comparison of discrete and continuous data including chi-squared test of independence, t-test, analysis of variance (ANOVA), and their non-parametric equivalents. The second part of the course focuses on linear models (regression) theory and their practical implementation. This part also introduces mixed-effects models and concepts of survival analysis. 
-
-More information can be found on the [course syllabus]()
+This one-semester course introduces basic applied descriptive and inferential statistics. The first part of the course includes elementary probability theory, an introduction to statistical distributions, principles of estimation and hypothesis testing, methods for comparison of discrete and continuous data including chi-squared test of independence, t-test, analysis of variance (ANOVA), and their non-parametric equivalents. The second part of the course focuses on linear models (regression) theory and their practical implementation. This part also introduces mixed-effects models and concepts of survival analysis.
+More information can be found on the [course syllabus](/Attachments/P8130_Syllabus.pdf)
 
 ####Class Sessions
 Tuesdays and Thursdays, 10:00-11:20am, P&S Building 7th Floor Amphitheatre (AMP 7)
@@ -13,13 +13,10 @@ Tuesdays and Thursdays, 10:00-11:20am, P&S Building 7th Floor Amphitheatre (AMP 
 
 ####Recitation Sessions
 Mondays and/or Wednesdays, 5:30-6:50pm, Hammer LL203
-First day of recitation: Monday, Sept 18th 2017
-</br>
-</br>
 
 Course Instructor: </br>
 [Cody Chiuzan](https://www.mailman.columbia.edu/people/our-faculty/cc3780), PhD ([email](mailto:cc3780@cumc.columbia.edu))  
-Office Hours: By Appointment
+Office Hours: By Appointment </br>
 
 Teaching Assistants: </br>
 Zilan Chai ([email](mailto:zc2326@cumc.columbia.edu)) </br>
@@ -27,6 +24,5 @@ Rebecca Deek ([email](mailto:rad2186@cumc.columbia.edu)) </br>
 Yutao Liu ([email](mailto:yl3050@cumc.columbia.edu)) </br>
 Shuang Wu ([email](mailto:sw3140@cumc.columbia.edu)) </br>
 Office Hours: Mondays and Wednesdays, 6:50-7:30pm, Hammer LL203
-
 
 <br><img src="Attachments/biostat_logo.png" alt="biostat_logo" style="width:75%; border:0px solid"><br>
