@@ -1,0 +1,12 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: Biostatistical Methods I
+  right:
+    - text: Course Documents
+      href: Course_Documents.html
+    - text: Stat Links
+      href: Stat_Links.html
+output:
+  html_document:
+    theme: journal
