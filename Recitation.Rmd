@@ -1,0 +1,26 @@
+---
+title: "Recitation"
+---
+
+Find all recitation documents, including practice problems, R, and SAS codes, here.
+
+Recitation | Practice Problems | R/SAS |
+--------|----------------------|-------------|
+1       |[PP1](/Attachments/Recitation/Recitation 1.pdf)|[R]()/[SAS]()|
+<!--
+2       |[PP2]()|[R]()/[SAS]()|
+3       |[PP3]()|[R]()/[SAS]()|
+4       |[PP4]()|[R]()/[SAS]()|
+5       |[PP5]()|[R]()/[SAS]()|
+6       |[PP6]()|[R]()/[SAS]()|
+7       |[PP7]()|[R]()/[SAS]()|
+8       |[PP8]()|[R]()/[SAS]()|
+9       |[PP9]()|[R]()/[SAS]()|
+10      |[PP10]()|[R]()/[SAS]()|
+11      |[PP11]()|[R]()/[SAS]()|
+12      |[PP12]()|[R]()/[SAS]()|
+13      |[PP13]()|[R]()/[SAS]()|
+-->
+
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<br><img src="Attachments/biostat_logo.png" alt="biostat_logo" style="width:75%; border:0px solid"><br>

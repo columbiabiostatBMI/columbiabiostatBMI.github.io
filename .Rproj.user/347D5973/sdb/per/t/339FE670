@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Recitation\"\n---\n\nFind all recitation documents, including practice problems, R, and SAS codes, here.\n\nRecitation | Practice Problems | R/SAS |\n--------|----------------------|-------------|\n1       |[PP1]()|[R]()/[SAS]()|\n<!--\n2       |[PP2]()|[R]()/[SAS]()|\n3       |[PP3]()|[R]()/[SAS]()|\n4       |[PP4]()|[R]()/[SAS]()|\n5       |[PP5]()|[R]()/[SAS]()|\n6       |[PP6]()|[R]()/[SAS]()|\n7       |[PP7]()|[R]()/[SAS]()|\n8       |[PP8]()|[R]()/[SAS]()|\n9       |[PP9]()|[R]()/[SAS]()|\n10      |[PP10]()|[R]()/[SAS]()|\n11      |[PP11]()|[R]()/[SAS]()|\n12      |[PP12]()|[R]()/[SAS]()|\n13      |[PP13]()|[R]()/[SAS]()|\n-->\n\n</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>\n<br><img src=\"Attachments/biostat_logo.png\" alt=\"biostat_logo\" style=\"width:75%; border:0px solid\"><br>\n",
+    "created" : 1505093079075.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2284736820",
+    "id" : "339FE670",
+    "lastKnownWriteTime" : 1505093626,
+    "last_content_update" : 1505093626148,
+    "path" : "~/Documents/columbiabiostatBMI/Recitation.Rmd",
+    "project_path" : "Recitation.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

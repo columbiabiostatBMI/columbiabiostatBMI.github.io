@@ -3,8 +3,10 @@ output_dir: "."
 navbar:
   title: Biostatistical Methods I
   right:
-    - text: Course Documents
+    - text: Lecture
       href: Course_Documents.html
+    - text: Recitation
+      href: Recitation.html
     - text: Stat Links
       href: Stat_Links.html
 output:
