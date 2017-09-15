@@ -6,7 +6,8 @@ Find all recitation documents, including practice problems, R, and SAS codes, he
 
 Recitation | Practice Problems | R/SAS |
 --------|----------------------|-------------|
-<!--1       |[PP1](/Attachments/Recitation/Recitation1.pdf)|[R]()/[SAS]()|
+1       |[PP1](/Attachments/Recitation/Recitation 1/Recitation_1_practice_problems.pdf)|[R](/Attachments/Recitation/Recitation 1/P8130_Rec_01.pdf)/[SAS](/Attachments/Recitation/Recitation 1/P8130Recitation1.sas)|
+<!--
 2       |[PP2]()|[R]()/[SAS]()|
 3       |[PP3]()|[R]()/[SAS]()|
 4       |[PP4]()|[R]()/[SAS]()|
@@ -21,5 +22,14 @@ Recitation | Practice Problems | R/SAS |
 13      |[PP13]()|[R]()/[SAS]()|
 -->
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br>
+
+###Datasets
+1. [CD Cells](/Attachments/Datasets/CD_counts.csv)
+2. [Demo](/Attachments/Datasets/demo.sas7bdat)
+3. [Iron](/Attachments/Datasets/iron.dat)
+
+
+
+</br></br></br></br></br></br></br></br></br></br></br>
 <br><img src="Attachments/biostat_logo.png" alt="biostat_logo" style="width:75%; border:0px solid"><br>
