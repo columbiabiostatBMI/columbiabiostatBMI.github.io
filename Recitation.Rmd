@@ -6,8 +6,7 @@ Find all recitation documents, including practice problems, R, and SAS codes, he
 
 Recitation | Practice Problems | R/SAS |
 --------|----------------------|-------------|
-1       |[PP1](/Attachments/Recitation/Recitation1.pdf)|[R]()/[SAS]()|
-<!--
+<!--1       |[PP1](/Attachments/Recitation/Recitation1.pdf)|[R]()/[SAS]()|
 2       |[PP2]()|[R]()/[SAS]()|
 3       |[PP3]()|[R]()/[SAS]()|
 4       |[PP4]()|[R]()/[SAS]()|
