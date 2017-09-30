@@ -8,7 +8,7 @@ Recitation | Practice Problems | R/SAS |
 --------|----------------------|-------------|
 1       |[PP1](/Attachments/Recitation/Recitation 1/Recitation_1_practice_problems.pdf)|[R](/Attachments/Recitation/Recitation 1/P8130_Rec_01.pdf)/[SAS](/Attachments/Recitation/Recitation 1/P8130Recitation1.sas)/[Slides](/Attachments/Recitation/Recitation 1/P8130_Rec_01_SAS.pdf)|
 2       |[PP2](/Attachments/Recitation/Recitation 2/Recitation_2_practice_problems.pdf)|[R](/Attachments/Recitation/Recitation 2/P8130 Rec 02.R)/[R pdf](/Attachments/Recitation/Recitation 2/P8130_Rec_02.pdf)/[SAS](/Attachments/Recitation/Recitation 2/Rec_02.sas)/[SAS pdf](/Attachments/Recitation/Recitation 2/Rec_02_SAS.pdf)|
-
+3       |[PP3](/Attachments/Recitation/Recitation 3/Recitation_3_practice_problems.pdf)|[R](/Attachments/Recitation/Recitation 3/P8130 Rec 03.R)/[R pdf](/Attachments/Recitation/Recitation 3/P8130_Rec_03.pdf)/[SAS](/Attachments/Recitation/Recitation 3/Rec_03.sas)/[SAS pdf](/Attachments/Recitation/Recitation 3/Rec_03_SAS.pdf)|
 
 
 <!--
@@ -31,8 +31,9 @@ Recitation | Practice Problems | R/SAS |
 1. [CD Cells](/Attachments/Datasets/CD_counts.csv)
 2. [Demo](/Attachments/Datasets/demo.sas7bdat)
 3. [Iron](/Attachments/Datasets/iron.dat)
+4. [Bone Mineral](/Attachments/Datasets/Bonemineral.xls)
 
 
 
-</br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br>
 <br><img src="Attachments/biostat_logo.png" alt="biostat_logo" style="width:75%; border:0px solid"><br>

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Recitation\"\n---\n\nFind all recitation documents, including practice problems, R, and SAS codes, here.\n\nRecitation | Practice Problems | R/SAS |\n--------|----------------------|-------------|\n1       |[PP1](/Attachments/Recitation/Recitation 1/Recitation_1_practice_problems.pdf)|[R](/Attachments/Recitation/Recitation 1/P8130_Rec_01.pdf)/[SAS](/Attachments/Recitation/Recitation 1/P8130Recitation1.sas)/[Slides](/Attachments/Recitation/Recitation 1/P8130_Rec_01_SAS.pdf)|\n2       |[PP2](/Attachments/Recitation/Recitation 2/Recitation_2_practice_problems.pdf)|[R](/Attachments/Recitation/Recitation 2/P8130 Rec 02.R)/[R pdf](/Attachments/Recitation/Recitation 2/P8130_Rec_02.pdf)/[SAS](/Attachments/Recitation/Recitation 2/Rec_02.sas)/[SAS pdf](/Attachments/Recitation/Recitation 2/Rec_02_SAS.pdf)|\n3       |[PP3](/Attachments/Recitation/Recitation 3/Recitation_3_practice_problems.pdf)|[R](/Attachments/Recitation/Recitation 3/P8130 Rec 03.R)/[R pdf](/Attachments/Recitation/Recitation 3/P8130_Rec_03.pdf)/[SAS](/Attachments/Recitation/Recitation 3/Rec_03.sas)/[SAS pdf](/Attachments/Recitation/Recitation 3/Rec_03_SAS.pdf)|\n\n\n<!--\n3       |[PP3]()|[R]()/[SAS]()|\n4       |[PP4]()|[R]()/[SAS]()|\n5       |[PP5]()|[R]()/[SAS]()|\n6       |[PP6]()|[R]()/[SAS]()|\n7       |[PP7]()|[R]()/[SAS]()|\n8       |[PP8]()|[R]()/[SAS]()|\n9       |[PP9]()|[R]()/[SAS]()|\n10      |[PP10]()|[R]()/[SAS]()|\n11      |[PP11]()|[R]()/[SAS]()|\n12      |[PP12]()|[R]()/[SAS]()|\n13      |[PP13]()|[R]()/[SAS]()|\n-->\n\n</br></br></br></br>\n\n###Datasets\n1. [CD Cells](/Attachments/Datasets/CD_counts.csv)\n2. [Demo](/Attachments/Datasets/demo.sas7bdat)\n3. [Iron](/Attachments/Datasets/iron.dat)\n4. [Bone Mineral](/Attachments/Datasets/Bonemineral.xls)\n\n\n\n</br></br></br></br></br></br></br>\n<br><img src=\"Attachments/biostat_logo.png\" alt=\"biostat_logo\" style=\"width:75%; border:0px solid\"><br>\n",
+    "created" : 1506739553345.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "716978569",
+    "id" : "9658EF4C",
+    "lastKnownWriteTime" : 1506739714,
+    "last_content_update" : 1506739714681,
+    "path" : "~/Documents/columbiabiostatBMI/Recitation.Rmd",
+    "project_path" : "Recitation.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
