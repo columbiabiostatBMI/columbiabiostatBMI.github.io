@@ -13,9 +13,9 @@ Lecture | Topic                                                     | Lecture No
 5       |Continuous Probability Distributions                       |[Lecture 5](/Attachments/Lectures/P8130.Lecture5.pdf)/[R](/Attachments/Lectures/Lect5_ContProb.R)|Recitation 2|
 6       |Methods of Inference for One-Sample Mean                   |[Lecture 6](Attachments/Lectures/P8130.Lecture6.pdf)/[R](/Attachments/Lectures/Lect6_OneSample.R)|Recitation 3|
 7       |Methods of Inference for Two-Sample Means                  |[Lecture 7](Attachments/Lectures/P8130.Lecture7.pdf)/[R](/Attachments/Lectures/Lect7_TwoSamples.R)|Recitation 3|
+8       |One Way Analysis of Variance (ANOVA)                       |[Lecture 8](Attachments/Lectures/P8130.Lecture8.pdf)/[R](/Attachments/Lectures/Lect8_ANOVA.R)|Recitation 4|
+9       |Methods of Inference for Proportions                       |[Lecture 9](Attachments/Lectures/P8130.Lecture9.pdf)/[R](/Attachments/Lectures/Lect9_Norm.R)|Recitation 4|
 <!--
-7       |Methods of Inference for 3+ Sample Means                   |[Lecture 7]()  |[PP7]()|[R]()/[SAS]()|
-8       |Methods of Inference for One-Proportion                    |[Lecture 8]()  |[PP8]()|[R]()/[SAS]()|
 9       |Methods of Inference for Two-Proportions                   |[Lecture 9]()  |[PP9]()|[R]()/[SAS]()|
 10      |Measures of Association for Categorical Data               |[Lecture 10]()|[PP10]()|[R]()/[SAS]()|
 11      |Review 1                                                   |[Lecture 11]()|[PP11]()|[R]()/[SAS]()|
@@ -38,5 +38,5 @@ Lecture | Topic                                                     | Lecture No
 28      |Intro to survival analysis(2)                              |[Lecture 28]()|[PP25]()|[R]()/[SAS]()|
 -->
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br>
 <br><img src="Attachments/biostat_logo.png" alt="biostat_logo" style="width:75%; border:0px solid"><br>
