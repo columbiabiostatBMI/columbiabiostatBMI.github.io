@@ -15,10 +15,9 @@ Lecture | Topic                                                     | Lecture No
 7       |Methods of Inference for Two-Sample Means                  |[Lecture 7](Attachments/Lectures/P8130.Lecture7.pdf)/[R](/Attachments/Lectures/Lect7_TwoSamples.R)|Recitation 3|
 8       |One Way Analysis of Variance (ANOVA)                       |[Lecture 8](Attachments/Lectures/P8130.Lecture8.pdf)/[R](/Attachments/Lectures/Lect8_ANOVA.R)|Recitation 4|
 9       |Methods of Inference for Proportions                       |[Lecture 9](Attachments/Lectures/P8130.Lecture9.pdf)/[R](/Attachments/Lectures/Lect9_Norm.R)|Recitation 4|
+10      |Contingency Tables- Tests for Categorical Data             |[Lecture 10](Attachments/Lectures/P8130.Lecture10.pdf)/[R](/Attachments/Lectures/Lect10_CatTests.R)|Recitation 5|
+11      |Non-Parametric Tests                                       |[Lecture 11](Attachments/Lectures/P8130.Lecture11.pdf)/[R](/Attachments/Lectures/Lect11_Nonparam.R)|Recitation 5|
 <!--
-9       |Methods of Inference for Two-Proportions                   |[Lecture 9]()  |[PP9]()|[R]()/[SAS]()|
-10      |Measures of Association for Categorical Data               |[Lecture 10]()|[PP10]()|[R]()/[SAS]()|
-11      |Review 1                                                   |[Lecture 11]()|[PP11]()|[R]()/[SAS]()|
 12      |Exam 1                                                     |-             |-       |-            |
 13      |Correlations & simple linear regression (SLR)              |[Lecture 13]()|[PP13]()|[R]()/[SAS]()|
 14      |Estimation and inference in SLR                            |[Lecture 14]()|[PP14]()|[R]()/[SAS]()|
