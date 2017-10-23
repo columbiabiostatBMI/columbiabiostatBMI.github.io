@@ -11,8 +11,8 @@ Recitation | Practice Problems | R/SAS |
 3       |[PP3](/Attachments/Recitation/Recitation 3/Recitation_3_practice_problems.pdf)|[R](/Attachments/Recitation/Recitation 3/P8130 Rec 03.R)/[R pdf](/Attachments/Recitation/Recitation 3/P8130_Rec_03.pdf)/[SAS](/Attachments/Recitation/Recitation 3/Rec_03.sas)/[SAS pdf](/Attachments/Recitation/Recitation 3/Rec_03_SAS.pdf)|
 4       |[PP4](/Attachments/Recitation/Recitation 4/Recitation_4_practice_problems.pdf)|[R pdf](/Attachments/Recitation/Recitation 4/P8130 Rec 04.R)/[SAS](/Attachments/Recitation/Recitation 4/Rec_04.sas)/[SAS pdf](/Attachments/Recitation/Recitation 4/Rec_04_SAS.pdf)/[SAS demo](/Attachments/Recitation/Recitation 4/demo.sas7bdat)|
 5       |[PP5](/Attachments/Recitation/Recitation 5/Recitation_5_practice_problems.pdf)|[SAS](/Attachments/Recitation/Recitation 5/Rec_05.sas)/[SAS pdf](/Attachments/Recitation/Recitation 5/Rec_05_SAS.pdf)|
+6       |[PP6](/Attachments/Recitation/Recitation 6/Recitation_6_practice_problems.pdf)|[SAS](/Attachments/Recitation/Recitation 6/Rec_06.sas)/[SAS pdf](/Attachments/Recitation/Recitation 6/Rec_06_SAS.pdf)|
 <!--
-6       |[PP6]()|[R]()/[SAS]()|
 7       |[PP7]()|[R]()/[SAS]()|
 8       |[PP8]()|[R]()/[SAS]()|
 9       |[PP9]()|[R]()/[SAS]()|
@@ -29,8 +29,9 @@ Recitation | Practice Problems | R/SAS |
 2. [Demo](/Attachments/Datasets/demo.sas7bdat)
 3. [Iron](/Attachments/Datasets/iron.dat)
 4. [Bone Mineral](/Attachments/Datasets/Bonemineral.xls)
+5. [SBP](/Attachments/Datasets/sbp.txt)
 
 
 
-</br></br></br></br></br></br></br>
+</br></br></br>
 <br><img src="Attachments/biostat_logo.png" alt="biostat_logo" style="width:75%; border:0px solid"><br>
