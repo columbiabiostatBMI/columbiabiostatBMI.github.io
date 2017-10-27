@@ -17,10 +17,10 @@ Lecture | Topic                                                     | Lecture No
 9       |Methods of Inference for Proportions                       |[Lecture 9](Attachments/Lectures/P8130.Lecture9.pdf)/[R](/Attachments/Lectures/Lect9_Norm.R)|Recitation 4|
 10      |Contingency Tables- Tests for Categorical Data             |[Lecture 10](Attachments/Lectures/P8130.Lecture10.pdf)/[R](/Attachments/Lectures/Lect10_CatTests.R)|Recitation 5|
 11      |Non-Parametric Tests                                       |[Lecture 11](Attachments/Lectures/P8130.Lecture11.pdf)/[R](/Attachments/Lectures/Lect11_Nonparam.R)|Recitation 6|
-12      |Review for Exam 1                                          |-|-|
-13      |Exam 1                                                     |-|-|
+-       |Review for Exam 1                                          |-|-|
+-      |Exam 1                                                     |-|-|
+12      |Simple linear regression (SLR)                             |[Lecture 12](Attachments/Lectures/P8130.Lecture12.pdf)/[R](/Attachments/Lectures/Lect12_SLR.R)|Recitation 7|
 <!--
-13      |Correlations & simple linear regression (SLR)              |[Lecture 13]()|[PP13]()|[R]()/[SAS]()|
 14      |Estimation and inference in SLR                            |[Lecture 14]()|[PP14]()|[R]()/[SAS]()|
 15      |Multiple Linear Regression (MLR)                           |[Lecture 15]()|[PP15]()|[R]()/[SAS]()|
 16      |ANOVA testing in MLR                                       |[Lecture 16]()|[PP16]()|[R]()/[SAS]()|
