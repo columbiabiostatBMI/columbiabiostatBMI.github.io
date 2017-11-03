@@ -20,8 +20,9 @@ Lecture | Topic                                                     | Lecture No
 -       |Review for Exam 1                                          |-|-|
 -      |Exam 1                                                     |-|-|
 12      |Simple linear regression (SLR)                             |[Lecture 12](Attachments/Lectures/P8130.Lecture12.pdf)/[R](/Attachments/Lectures/Lect12_SLR.R)|Recitation 7|
+13      |Simple linear regression (SLR)                             |[Lecture 13](Attachments/Lectures/P8130.Lecture13.pdf)|Recitation 7|
+14      |Inferences in SLR                                          |[Lecture 14](Attachments/Lectures/P8130.Lecture14.pdf)/[R](/Attachments/Lectures/Lect14.SLR_Inf.R)|Recitation 8|
 <!--
-14      |Estimation and inference in SLR                            |[Lecture 14]()|[PP14]()|[R]()/[SAS]()|
 15      |Multiple Linear Regression (MLR)                           |[Lecture 15]()|[PP15]()|[R]()/[SAS]()|
 16      |ANOVA testing in MLR                                       |[Lecture 16]()|[PP16]()|[R]()/[SAS]()|
 17      |Model diagnositics MLR                                     |[Lecture 17]()|[PP17]()|[R]()/[SAS]()|
