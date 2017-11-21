@@ -22,7 +22,10 @@ Contains latest news and groundbreaking work in statistics </br>
 [Do not (ab)use the p-values](http://www.oncotherapynetwork.com/qa/p-values-and-data-dredging-clinical-research) </br>
 
 
-</br></br></br></br></br></br></br></br></br>
+###Benjamini Talk
+[Slides](/Attachments/Benjamini_talk_AGG.pdf)/[Paper](/Attachments/JASA FCR_Benjamini.pdf)
+
+</br></br></br></br></br></br></br>
 <br><img src="Attachments/biostat_logo.png" alt="biostat_logo" style="width:75%; border:0px solid"><br>
 
 

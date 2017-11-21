@@ -22,10 +22,10 @@ Lecture | Topic                                                     | Lecture No
 12      |Simple linear regression (SLR)                             |[Lecture 12](Attachments/Lectures/P8130.Lecture12.pdf)/[R](/Attachments/Lectures/Lect12_SLR.R)|Recitation 7|
 13      |Simple linear regression (SLR)                             |[Lecture 13](Attachments/Lectures/P8130.Lecture13.pdf)|Recitation 7|
 14      |Inferences in SLR                                          |[Lecture 14](Attachments/Lectures/P8130.Lecture14.pdf)/[R](/Attachments/Lectures/Lect14.SLR_Inf.R)|Recitation 8|
+15      |Multiple Linear Regression (MLR)                           |[Lecture 15](Attachments/Lectures/P8130.Lecture15.pdf)/[R](/Attachments/Lectures/Lect15_MLR.R)|Recitation 9|
+16      |ANOVA testing in MLR                                       |[Lecture 16](Attachments/Lectures/P8130.Lecture16.pdf)/[R](/Attachments/Lectures/Lect16_MLR.ANOVA.R)
+17      |Model diagnositics MLR                                     |[Lecture 17](Attachments/Lectures/P8130.Lecture17.pdf)/[R](/Attachments/Lectures/Lect17_MLRDiag.R)
 <!--
-15      |Multiple Linear Regression (MLR)                           |[Lecture 15]()|[PP15]()|[R]()/[SAS]()|
-16      |ANOVA testing in MLR                                       |[Lecture 16]()|[PP16]()|[R]()/[SAS]()|
-17      |Model diagnositics MLR                                     |[Lecture 17]()|[PP17]()|[R]()/[SAS]()|
 18      |Model building & Validation in MLR                         |[Lecture 18]()|[PP18]()|[R]()/[SAS]()|
 19      |NO CLASS                                                   |-             |        |             |
 20      |‘Non-Linear’ Models: Regression Splines and Polynomials    |[Lecture 20]()|[PP20]()|[R]()/[SAS]()|

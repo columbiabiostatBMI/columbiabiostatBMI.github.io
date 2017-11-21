@@ -14,15 +14,15 @@ Recitation | Practice Problems | R/SAS |
 6       |[PP6](/Attachments/Recitation/Recitation 6/Recitation_6_practice_problems.pdf)|[SAS](/Attachments/Recitation/Recitation 6/Rec_06_SAS.sas)/[SAS pdf](/Attachments/Recitation/Recitation 6/Rec_06_SAS.pdf)|
 7       |[PP7](/Attachments/Recitation/Recitation 7/Recitation_7_practice_problems.pdf)|[SAS](/Attachments/Recitation/Recitation 7/Rec_07_SAS.sas)/[SAS pdf](/Attachments/Recitation/Recitation 7/Rec_07_SAS.pdf)|
 8       |[PP8](/Attachments/Recitation/Recitation 8/Recitation_8_practice_problems.pdf)|[SAS](/Attachments/Recitation/Recitation 8/Rec_08_SAS.sas)/[SAS pdf](/Attachments/Recitation/Recitation 8/Rec_08_SAS.pdf)|
+9       |[PP9](/Attachments/Recitation/Recitation 9/Recitation_9_practice_problems.pdf)|[SAS](/Attachments/Recitation/Recitation 9/Rec_09_SAS.sas)|
 <!--
-9       |[PP9]()|[R]()/[SAS]()|
 10      |[PP10]()|[R]()/[SAS]()|
 11      |[PP11]()|[R]()/[SAS]()|
 12      |[PP12]()|[R]()/[SAS]()|
 13      |[PP13]()|[R]()/[SAS]()|
 -->
 
-</br></br></br></br>
+</br></br>
 
 ###Datasets
 1. [CD Cells](/Attachments/Datasets/CD_counts.csv)
@@ -30,8 +30,10 @@ Recitation | Practice Problems | R/SAS |
 3. [Iron](/Attachments/Datasets/iron.dat)
 4. [Bone Mineral](/Attachments/Datasets/Bonemineral.xls)
 5. [SBP](/Attachments/Datasets/sbp.txt)
+6. [GPA](/Attachments/Datasets/GPA.csv)
+7. [Brand Preference](/Attachments/Datasets/BrandPref.txt)
+8. [Surgical](/Attachments/Datasets/Surgical.csv) / [Description](/Attachments/Datasets/SurgicalData_Description.pdf)
 
 
-
-</br></br></br>
+</br></br>
 <br><img src="Attachments/biostat_logo.png" alt="biostat_logo" style="width:75%; border:0px solid"><br>
