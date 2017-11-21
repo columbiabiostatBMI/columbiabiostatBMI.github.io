@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"(Statistical) Stuff You Should Know\"\n---\n</br>\n\n###Be Part of the Statistical Community\nThe official site of American Statistical Association (ASA) </br>\n[Join](http://www.amstat.org/) today - reduced membership for students! </br>\n\n[‘This is Statistics’](http://thisisstatistics.org/) website created and maintained by ASA </br>\nContains latest news and groundbreaking work in statistics </br>\n\n###Know Your Profession\n[Biostatistician](http://money.cnn.com/gallery/pf/2017/01/05/fastest-growing-jobs-2017/index.html) – fastest growing job </br>\n\n[Statistician](https://money.usnews.com/careers/best-jobs/rankings/best-stem-jobs) – best STEM job </br>\n\n\n###Promote Good Statistical Practice\n[Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) </br>\n\n[Do not (ab)use the p-values](http://www.oncotherapynetwork.com/qa/p-values-and-data-dredging-clinical-research) </br>\n\n\n###Benjamini Talk\n[Slides](/Attachments/Benjamini_talk_AGG.pdf)/[Paper](/Attachments/4JASA FCR_Benjamini.pdf)\n\n</br></br></br></br></br></br></br>\n<br><img src=\"Attachments/biostat_logo.png\" alt=\"biostat_logo\" style=\"width:75%; border:0px solid\"><br>\n\n\n",
+    "created" : 1511295972274.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2560194290",
+    "id" : "4B8A7572",
+    "lastKnownWriteTime" : 1511296099,
+    "last_content_update" : 1511296133305,
+    "path" : "~/Documents/columbiabiostatBMI/Stat_Links.Rmd",
+    "project_path" : "Stat_Links.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
